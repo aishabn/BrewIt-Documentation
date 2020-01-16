@@ -2,7 +2,7 @@
 	To start creating the project we start off by installing yarn.
 	Yarn is a package manager and task runner for javascript.
 	
-	You can install yarn using Homebrew by writing this in the terminal on Mac. [For windows users](https://docs.brew.sh/Installation)
+	You can install yarn using Homebrew by writing this in the terminal on Mac.
 
 `$ brew install yarn`
 
